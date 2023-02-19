@@ -15,7 +15,7 @@ const Navbar = () => {
           className="logo"/>
 
          
-         <NavLink to='/netflix_clone' className='link'>Home</NavLink>
+         <NavLink to='/netflix' className='link'>Home</NavLink>
          <NavLink to='/movie' className='link'>Movie</NavLink>
          <NavLink to="/tv" className='link'>TV/Show</NavLink>
           </div>

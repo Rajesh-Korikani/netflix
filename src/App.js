@@ -12,7 +12,7 @@ const App = () => {
     <div className='app'>
       <Navbar/>
       <Routes>
-        <Route path='/netflix_clone' element={<Home />}/>
+        <Route path='/netflix' element={<Home />}/>
         <Route path='/movie' element={<Movie/>}/>
         <Route path="/tv"    element={<Tv/>}/>
         
